@@ -360,7 +360,7 @@ function HospitalDashboard() {
                 {/* Footer */}
                 <footer className="bg-white w-full p-5 text-center shadow-md mt-12">
                     <p className="text-gray-700">
-                        © 2024 Rakt Sevva. All rights reserved. | Designed by GreenApple
+                        © 2024 Rakt Sevva. All rights reserved. | Designed by GreenApple & Rocketman with ❤️
                     </p>
                 </footer>
             </div>
